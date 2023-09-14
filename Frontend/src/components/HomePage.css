@@ -1,0 +1,23 @@
+/* HomePage.css */
+.homepage {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .signup-button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .login-button {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
